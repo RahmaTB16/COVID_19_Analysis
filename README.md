@@ -26,8 +26,11 @@ Outputs: PDF & HTML
 
 **How to Run**
 Open .Rmd in RStudio
+
 Install required packages:
+
 install.packages(c("dplyr","ggplot2","tidyr","lubridate","Hmisc"))
+
 Knit to PDF/HTML
 
 **Author**
