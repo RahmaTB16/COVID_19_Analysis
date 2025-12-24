@@ -22,9 +22,11 @@ Deaths peak early and decline over time
 **Tools**
 
 R, Libraries: dplyr, ggplot2, tidyr, lubridate, Hmisc
+
 Outputs: PDF & HTML
 
 **How to Run**
+
 Open .Rmd in RStudio
 
 Install required packages:
